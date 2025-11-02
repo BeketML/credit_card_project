@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (optional - можно раскомментировать, если не хотите коммитить модели)
+# models/*.joblib
+
+# Data files (optional - можно раскомментировать, если данные слишком большие)
+# data/*.csv
+
+# Environment variables
+.env
+.env.local
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
