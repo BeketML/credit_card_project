@@ -1,6 +1,10 @@
 # Сегментация клиентов банка
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/BeketML/credit_card_project)
+
 Проект по разработке интерактивного сервиса для сегментации клиентов банка на основе их транзакционного поведения с использованием методов машинного обучения.
+
+**Репозиторий**: [https://github.com/BeketML/credit_card_project](https://github.com/BeketML/credit_card_project)
 
 ## Описание проекта
 
@@ -51,7 +55,7 @@ credit_card_project/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/BeketML/credit_card_project.git
 cd credit_card_project
 ```
 
